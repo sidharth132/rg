@@ -19,9 +19,9 @@ resource "azurerm_resource_group" "rg2" {
   
 }
 
-resource "azurerm_resource_group" "rg2" {
+resource "azurerm_resource_group" "rg3" {
 
-    name = "xyz2"
+    name = "xyz3"
     location = "eastus"
   
 }
