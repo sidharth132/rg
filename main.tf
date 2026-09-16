@@ -18,3 +18,11 @@ resource "azurerm_resource_group" "rg2" {
     location = "eastus"
   
 }
+
+resource "azurerm_resource_group" "rg3" {
+
+    name = "xyz3"
+    location = "eastus"
+  
+}
+
